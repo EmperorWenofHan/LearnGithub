@@ -19,3 +19,5 @@ C:\Windows\System32\drivers\etc
 4. 刷新本机DNS缓存
 
 Windows: ipconfig/flushdns
+
+5. 配置个人访问令牌
